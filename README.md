@@ -8,5 +8,5 @@ math methods found in JDK class
 repo * ...
 ### Connect me via:
 1. [Facebook](https://www.facebook.com/leminh.hieu.5811877)
-2. [Email](mailto:hieulmse140950@gmail.com)
+2. [Email](mailto:lmh731999@gmail.com)
 #### © 2020 by Gyul | Fpt University, HCMC
