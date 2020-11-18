@@ -4,8 +4,9 @@ math methods found in JDK class
 ### You will find in this repo:
 * Java source code regarding to Math methods located in src/
 * .gitignore file to tell Git which ones shuold be uploaded
-* README.md = this file itselt - to show the home-page of this 
-repo * ...
+* README.md = this file itself - to show the home-page of this 
+repo 
+* ...
 ### Connect me via:
 1. [Facebook](https://www.facebook.com/leminh.hieu.5811877)
 2. [Email](mailto:lmh731999@gmail.com)
