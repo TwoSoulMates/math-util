@@ -7,6 +7,6 @@ math methods found in JDK class
 * README.md = this file itselt - to show the home-page of this 
 repo * ...
 ### Connect me via:
-1 [Facebook](https://www.facebook.com/leminh.hieu.5811877)
+1. [Facebook](https://www.facebook.com/leminh.hieu.5811877)
 2. [Email](mailto:hieulmse140950@gmail.com)
 #### © 2020 by Gyul | Fpt University, HCMC
